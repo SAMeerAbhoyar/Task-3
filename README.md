@@ -21,6 +21,4 @@ Housing.csv containing features such as area, number of bedrooms, bathrooms, and
 **Final Result:**  
 Successfully built and evaluated simple and multiple regression models, analyzed prediction performance, and extracted feature importance from model coefficients.
 
-
-**Created by:** Sameera Manoj Bhoyar  
-**Task:** Linear Regression (Simple & Multiple)
+ 
